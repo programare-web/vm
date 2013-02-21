@@ -14,7 +14,7 @@
 3. Clonează acest repository:
 
         git clone https://github.com/programare-web/vm
-        cd wm
+        cd vm
 
 4. Pornește mașina virtuală:
 
